@@ -4,9 +4,13 @@ Data Science & AI Portfolio – showcasing projects in data analysis, ML, and NL
 
 ## Skills
 
-* [cite_start]**Programming & Tools:** Python (Pandas, NumPy), SQL (PostgreSQL), Google Cloud (BigQuery), Git [cite: 129, 130, 135]
-* [cite_start]**Data Analysis & BI:** Looker Studio, Power BI, Excel (Power Query, DAX), Google Sheets [cite: 122, 124, 141]
-* [cite_start]**Web Scraping & ETL:** Selenium, Scrapy, Automated Data Pipelines, API Integration [cite: 126, 127, 144]
-* [cite_start]**Machine Learning:** scikit-learn, TensorFlow, Keras, PyTorch [cite: 133, 152]
-* [cite_start]**NLP:** Hugging Face, Transformers, LLM Fine-tuning (Unsloth), AraBART [cite: 132, 156, 161]
-* [cite_start]**Soft Skills:** Problem-Solving, Research, Documentation, KPI Definition [cite: 145]
+*Programming & Tools: Python, SQL, Git, Excel, Power BI
+*Data Analysis: Pandas, NumPy, Matplotlib, Seaborn, Plotly
+*Machine Learning: scikit-learn, TensorFlow, Keras, PyTorch
+*NLP: Hugging Face, NLTK, Transformers, LLM Fine-tuning
+*Soft Skills: Problem-Solving, Research, Documentation
+
+##Contact
+*📧 Email: merna.elsayed.abdeltawab@gmail.com
+*💼 LinkedIn: linkedin.com/in/merna-elsayed
+*📊 Kaggle: kaggle.com/mernaelsayed
