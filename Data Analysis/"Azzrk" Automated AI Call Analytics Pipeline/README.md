@@ -1,8 +1,8 @@
 
-# Automated Multi-Tenant AI Call Analytics Pipeline
+# "AZZRK" Automated AI Call Analytics Pipeline
 
 ## 📌 Project Overview
-This project was developed to solve a critical data silo issue at **CallVa**. The AI calling platform used for lead generation lacked API access, making it impossible to perform cross-campaign analysis or client benchmarking. 
+This project was developed to solve a critical data silo issue at **Azzrk e-commerce company**. The AI calling platform used for lead generation lacked API access, making it impossible to perform cross-campaign analysis or client benchmarking. 
 
 [cite_start]I engineered a custom **ETL (Extract, Transform, Load) pipeline** that automates the transition from fragmented CSV exports to a centralized **Google BigQuery Data Warehouse**, powering a real-time **Looker Studio** dashboard[cite: 137, 140, 144].
 
