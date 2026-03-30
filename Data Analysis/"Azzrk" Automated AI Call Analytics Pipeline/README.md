@@ -26,8 +26,8 @@ I engineered a custom **ETL (Extract, Transform, Load) pipeline** that automates
 
 ##  Repository Structure
 * [etl_pipeline.ipynb](./etl_pipeline.ipynb): The core Python script handling the BigQuery ingestion.
-* [Sample Data](Data Analysis/"Azzrk" Automated AI Call Analytics Pipeline/Sample Data.csv): Example CSV files following the `Leads_Company_Campaign` naming convention.
-* [Dashboard Preview](./Dashboard_Preview.pdf): Visual representation of the final BI tool.
+* Sample Data.csv: Example CSV files following the `Leads_Company_Campaign` naming convention.
+* Dashboard Preview.pdf): Visual representation of the final BI tool.
 
 ---
 *Note: The data provided in the sample files and dashboard preview is synthetic/fake to protect company privacy.*
