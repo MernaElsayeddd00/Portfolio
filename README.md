@@ -4,8 +4,8 @@ Data Science & AI Portfolio – showcasing projects in data analysis, ML, and NL
 
 ## Skills
 
-*Programming & Tools: Python, SQL, Git, Excel, Power BI
-*Data Analysis: Pandas, NumPy, Matplotlib, Seaborn, Plotly
+* Programming & Tools: Python, SQL, Git, Excel, Power BI
+* Data Analysis: Pandas, NumPy, Matplotlib, Seaborn, Plotly
 *Machine Learning: scikit-learn, TensorFlow, Keras, PyTorch
 *NLP: Hugging Face, NLTK, Transformers, LLM Fine-tuning
 *Soft Skills: Problem-Solving, Research, Documentation
