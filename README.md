@@ -12,5 +12,5 @@ Data Science & AI Portfolio – showcasing projects in data analysis, ML, and NL
 
 ## Contact
 * 📧 Email: merna.elsayed.abdeltawab@gmail.com
-* 💼 LinkedIn: linkedin.com/in/merna-elsayed
-* 📊 Kaggle: kaggle.com/mernaelsayed
+* 💼 LinkedIn: [linkedin.com/in/merna-elsayed](https://www.linkedin.com/in/merna-elsayed-88aa28361/)
+* 📊 Kaggle: [kaggle.com/mernaelsayed](https://www.kaggle.com/mernaelsayed)
