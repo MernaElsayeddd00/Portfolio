@@ -3,7 +3,7 @@
 **End-to-End Automated ETL Pipeline + Executive Looker Studio Dashboard**  
 Built for the **General Manager** of CallVa – an outsourcing call center company
 
-## 📋 Project Overview
+## Project Overview
 
 The General Manager at CallVa needed a **single, up-to-date monthly overview** covering all key departments: **Sales, Financials, Account Management, and HR**.
 
@@ -17,7 +17,7 @@ I designed and implemented a **fully automated ETL pipeline** that:
 
 This solution eliminated manual work and gave the GM instant visibility into the company’s monthly performance.
 
-## 🎯 Key Questions Answered for the General Manager
+## Key Questions Answered for the General Manager
 
 The dashboard directly answers the GM’s most important monthly questions:
 
@@ -39,7 +39,7 @@ The dashboard directly answers the GM’s most important monthly questions:
 - What is the current number of **Active Employees**?
 - What is the **Employees Turnover Rate %**?
 
-## 🚀 Automation & Business Impact
+## Automation & Business Impact
 
 - **Transformed a manual 4–6 hour monthly process** into a fully automated pipeline that runs in seconds.
 - **Eliminated repetitive copy-paste work** and reduced human errors to zero.
@@ -50,7 +50,7 @@ The dashboard directly answers the GM’s most important monthly questions:
 
 This project demonstrates real business value through automation, data integration, and executive reporting.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python (pandas)
 - gspread & Google Sheets API
@@ -58,4 +58,3 @@ This project demonstrates real business value through automation, data integrati
 - Google Drive API
 - Looker Studio (for the interactive dashboard)
 
-## 📁 Project Structure
