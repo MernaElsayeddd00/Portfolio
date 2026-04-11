@@ -1,53 +1,61 @@
 # CallVa Automated Monthly Performance Dashboard
 
-**Automated ETL Pipeline + Executive Looker Studio Dashboard**  
-*For the General Manager – Real-time monthly insights across all departments*
-
-![CallVa Logo](https://via.placeholder.com/150x50/6B46C1/FFFFFF?text=CallVa)  
-*(Replace with actual logo if you have one)*
+**End-to-End Automated ETL Pipeline + Executive Looker Studio Dashboard**  
+Built for the **General Manager** of CallVa – an outsourcing call center company
 
 ## 📋 Project Overview
 
-At **CallVa**, an outsourcing call center company, the General Manager needed a **single source of truth** to track monthly performance across **Sales, Financials, Account Management, and HR**.
+The General Manager at CallVa needed a **single, up-to-date monthly overview** covering all key departments: **Sales, Financials, Account Management, and HR**.
 
-Previously, each department director maintained their own Google Sheet, forcing the GM to manually consolidate data every month.  
+Before this project, each department director maintained their own Google Sheet. Consolidating the data manually every month was time-consuming, error-prone, and delayed decision-making.
 
-I designed and built a **fully automated ETL pipeline** that pulls data from the 4 department sheets, cleans and merges it, and feeds a professional **Looker Studio dashboard** — giving the GM instant answers to his most important business questions.
+I designed and implemented a **fully automated ETL pipeline** that:
+- Pulls data from the **4 separate department Google Sheets**
+- Cleans, standardizes, and merges everything by month
+- Writes the combined data into a master sheet
+- Feeds a clean, interactive **Looker Studio dashboard** tailored for the GM
 
-## 🎯 Business Questions Answered for the GM
+This solution eliminated manual work and gave the GM instant visibility into the company’s monthly performance.
 
-### Sales
-- How many deals did we close this month?
-- What is the total revenue and average deal value?
-- What are the **Sales Conversion Rate %** vs **Tele Conversion Rate %**?
+## 🎯 Key Questions Answered for the General Manager
+
+The dashboard directly answers the GM’s most important monthly questions:
+
+### Sales Department
+- How many deals were closed this month? (Total Deals)
+- What is the total revenue generated from these deals? (Total Deals Value)
+- What is the average deal value?
+- How do the **Sales Conversion Rate %** and **Tele Conversion Rate %** compare?
 
 ### Financials
-- What is the **Total Revenue**, **Operational Cost**, and **Net Profit**?
+- What is the **Total Revenue**, **Operational Cost**, and **Net Profit** this month?
 
 ### Account Management
 - How many **Total Clients**, **New Clients**, and **Churned Clients**?
 - What is the **Clients Churn Rate %**?
 
 ### HR
-- How many **New Employees** and **Active Employees**?
+- How many **New Employees** were added?
+- What is the current number of **Active Employees**?
 - What is the **Employees Turnover Rate %**?
 
-## 🚀 Key Achievements & Impact
+## 🚀 Automation & Business Impact
 
-- **Complete automation** of a previously manual 4–6 hour monthly process
-- **Zero manual copy-paste** → eliminated human errors
-- **One-click monthly refresh** for the GM
-- **Saved significant time and resources** for department directors and leadership
-- Scalable solution — new months are added automatically
-- Professional executive dashboard built in Looker Studio
+- **Transformed a manual 4–6 hour monthly process** into a fully automated pipeline that runs in seconds.
+- **Eliminated repetitive copy-paste work** and reduced human errors to zero.
+- **Saved significant time and resources** for department directors (no longer need to prepare consolidated reports) and for the GM (no more manual gathering of data).
+- Department directors now only fill their own sheets — the rest is automatic.
+- The GM can now access a professional, always-up-to-date dashboard with one click every month.
+- Scalable: New months are automatically added without any extra effort.
+
+This project demonstrates real business value through automation, data integration, and executive reporting.
 
 ## 🛠️ Tech Stack
 
-- **Python 3**
-- **pandas** – Data cleaning & transformation
-- **gspread + Google Sheets API** – Read/write Google Sheets
-- **Google Service Account (OAuth2)** – Secure authentication
-- **Looker Studio** – Interactive dashboard
-- **Google Drive API** – Required for service account access
+- Python (pandas)
+- gspread & Google Sheets API
+- Google OAuth2 Service Account (credentials.json)
+- Google Drive API
+- Looker Studio (for the interactive dashboard)
 
 ## 📁 Project Structure
