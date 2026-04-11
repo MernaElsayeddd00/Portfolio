@@ -39,6 +39,16 @@ The dashboard directly answers the GM’s most important monthly questions:
 - What is the current number of **Active Employees**?
 - What is the **Employees Turnover Rate %**?
 
+## Live Dashboard
+
+**🔗 [View Interactive CallVa Performance Dashboard]([https://lookerstudio.google.com/reporting/YOUR_ACTUAL_LINK_HERE](https://lookerstudio.google.com/reporting/f0fe8a55-f1e8-4ba5-95e6-1118f860536e))**
+
+This link opens the **real-time, fully interactive** Looker Studio dashboard that the General Manager uses.  
+You can filter by month, explore the charts, and see all KPIs live.
+
+### Static Preview
+[Download Dashboard Preview PDF](CallVa_Performance_Dashboard_Preview.pdf)
+
 ## Automation & Business Impact
 
 - **Transformed a manual 4–6 hour monthly process** into a fully automated pipeline that runs in seconds.
@@ -57,4 +67,6 @@ This project demonstrates real business value through automation, data integrati
 - Google OAuth2 Service Account (credentials.json)
 - Google Drive API
 - Looker Studio (for the interactive dashboard)
+
+
 
