@@ -41,7 +41,7 @@ The dashboard directly answers the GM’s most important monthly questions:
 
 ## Live Dashboard
 
-**🔗 [View Interactive CallVa Performance Dashboard]([https://lookerstudio.google.com/reporting/YOUR_ACTUAL_LINK_HERE](https://lookerstudio.google.com/reporting/f0fe8a55-f1e8-4ba5-95e6-1118f860536e))**
+** [View Interactive CallVa Performance Dashboard]([https://lookerstudio.google.com/reporting/YOUR_ACTUAL_LINK_HERE](https://lookerstudio.google.com/reporting/f0fe8a55-f1e8-4ba5-95e6-1118f860536e))**
 
 This link opens the **real-time, fully interactive** Looker Studio dashboard that the General Manager uses.  
 You can filter by month, explore the charts, and see all KPIs live.
