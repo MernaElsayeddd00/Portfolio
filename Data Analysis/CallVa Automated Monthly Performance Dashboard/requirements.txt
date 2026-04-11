@@ -1,0 +1,32 @@
+
+
+This project uses a **Google Service Account** for secure, non-interactive access to Google Sheets and Drive.
+
+### Steps to Set Up Credentials:
+
+1. Go to the [Google Cloud Console](https://console.cloud.google.com/).
+2. Create/select a project and enable:
+   - **Google Sheets API**
+   - **Google Drive API**
+3. Navigate to **IAM & Admin > Service Accounts**.
+4. Create a new Service Account, assign it the **Editor** role.
+5. Go to **Keys > Add Key > JSON** and download the file.
+6. Rename the downloaded file to `credentials.json` and place it in the project root.
+
+### Important: Grant Access to Sheets
+
+The service account can only access sheets that are **explicitly shared** with it:
+
+1. Open each of the **4 source Google Sheets** (Sales, Financials, Account Management, Call Center).
+2. Click **Share** and paste the `client_email` address from your `credentials.json`.
+3. Give it **Editor** access.
+4. Do the same for the **target spreadsheet** (the one containing the "Combined_ETL" tab).
+
+> **Note**: Sharing with the service account’s email is required for both reading from source sheets and writing to the combined sheet.
+
+## How to Run the ETL Pipeline?
+
+1. Place your `credentials.json` in the project folder.
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
